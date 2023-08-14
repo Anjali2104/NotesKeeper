@@ -2,7 +2,7 @@
 ```markdown
 # NotesKeeper - A Simple Note-Taking App
 
-![NotesKeeper Demo](https://github.com/Anjali2104/NotesKeeper/assets/86160355/09148a79-8e93-4e76-bf6d-1f90fd3aa12f)
+![Notes Keeper](https://github.com/Anjali2104/NotesKeeper/assets/86160355/615006c9-2c6f-485d-80f1-dce386f33c75)
 
 NotesKeeper is a user-friendly and intuitive note-taking application built with React. It enables users to create, edit, and delete notes, helping them manage their ideas, tasks, and more.
 
